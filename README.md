@@ -33,6 +33,6 @@
 
 Итак, ему нужен более простой способ заставить летать или крякать только *некоторых* (но не всех!) уток.
 
-![kartinka5]()
+![kartinka5](https://github.com/dvoryadkin98/hello-world/blob/master/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.PNG)
 
 ## А что ВЫ думаете об этой архитектуре?
