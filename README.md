@@ -21,3 +21,8 @@
 *Локальное изменение кода привело к нелокальному побочному эффекту (летающие резиновые утки!)*
 
 ![kartinka3](https://github.com/dvoryadkin98/hello-world/blob/master/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG)
+
+## Джо думает о наследовании...
+
+![kartinka4]()
+![kartinka5]()
